@@ -3,23 +3,134 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/project/project1/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/project/project2/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/project/project3/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/project/project4/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/go/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/golang/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/template/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/bootstrap/</loc>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/css/</loc>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/highlight-js/</loc>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/html/</loc>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/js/</loc>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/project/</loc>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/responsive/</loc>
+  </url>
+  
+  <url>
+    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/syntax-highlighting/</loc>
   </url>
   
 </urlset>

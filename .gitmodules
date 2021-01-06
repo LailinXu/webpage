@@ -4,3 +4,6 @@
 [submodule "themes/researcher"]
 	path = themes/researcher
 	url = https://github.com/LailinXu/hugo-researcher.git
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/LailinXu/minimal.git

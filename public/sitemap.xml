@@ -3,134 +3,123 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/project/project1/</loc>
+    <loc>https://LailinXu.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/project/project2/</loc>
+    <loc>https://LailinXu.github.io/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/project/project3/</loc>
+    <loc>https://LailinXu.github.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/project/project4/</loc>
+    <loc>https://LailinXu.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://LailinXu.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://LailinXu.github.io/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://LailinXu.github.io/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://LailinXu.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://LailinXu.github.io/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://LailinXu.github.io/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/themes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://LailinXu.github.io/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://LailinXu.github.io/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://LailinXu.github.io/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/template/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://LailinXu.github.io/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://LailinXu.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://LailinXu.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/about/</loc>
+    <loc>https://LailinXu.github.io/publication-type/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/bootstrap/</loc>
+    <loc>https://LailinXu.github.io/publication/example/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/categories/</loc>
+    <loc>https://LailinXu.github.io/publication_types/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/css/</loc>
+    <loc>https://LailinXu.github.io/publication/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/highlight-js/</loc>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/html/</loc>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/js/</loc>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/responsive/</loc>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/syntax-highlighting/</loc>
+    <loc></loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

@@ -1,146 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Lailin Xu</title>
-    <link>http://staff.ustc.edu.cn/~xll/test/public/tags/</link>
-    <description>Recent content in Tags on Lailin Xu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://staff.ustc.edu.cn/~xll/test/public/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>go</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/go/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/themes/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>template</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/template/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/template/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jekyll</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>static-site-generator</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/static-site-generator/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/static-site-generator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bootstrap</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/bootstrap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/bootstrap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>highlight-js</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/highlight-js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/highlight-js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>js</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>responsive</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/responsive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/responsive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax-highlighting</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/syntax-highlighting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/syntax-highlighting/</guid>
-      <description></description>
-    </item>
+    <title>Tags | Academic</title>
+    <link>https://LailinXu.github.io/tags/</link>
+      <atom:link href="https://LailinXu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://LailinXu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://LailinXu.github.io/tags/</link>
+    </image>
     
   </channel>
 </rss>

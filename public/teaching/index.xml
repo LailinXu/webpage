@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on Lailin Xu</title>
+    <link>http://staff.ustc.edu.cn/~xll/teaching/</link>
+    <description>Recent content in Teachings on Lailin Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://staff.ustc.edu.cn/~xll/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>高能物理数据分析</title>
+      <link>http://staff.ustc.edu.cn/~xll/teaching/hep_exp_meth/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staff.ustc.edu.cn/~xll/teaching/hep_exp_meth/</guid>
+      <description>Introduction This course is aimed for graduate students or senior undergraduates, who have taken basic courses on probablitiy and statistics. The main purpose is to bridge the gap between the knowledge from textbooks or classrooms to research work in the field of experimental particle physics. The course covers the following topics:
+ Probability and Statistics Parameter estimation and Hypothesis testing Regression and Classification Monte Carlo calculations Pattern recognition Track fitting  with emphasis on hands-on exercise.</description>
+    </item>
+    
+  </channel>
+</rss>

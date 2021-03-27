@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DM on Lailin Xu</title>
+    <link>http://staff.ustc.edu.cn/~xll/tags/dm/</link>
+    <description>Recent content in DM on Lailin Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://staff.ustc.edu.cn/~xll/tags/dm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search for new physics beyond the SM using gauge bosons</title>
+      <link>http://staff.ustc.edu.cn/~xll/research/atlas_bsm/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staff.ustc.edu.cn/~xll/research/atlas_bsm/</guid>
+      <description>Introduction The discovery of the Higgs boson at the LHC is yet another remarkable achievement of the Standard Model. At the same time we know that the SM has to be just an effective field theory, since it cannot provide explanations to various experimental observations such as the neutrino masses and oscillations, the existence of dark matter and the large baryon asymmetry present in the Universe. Moreover, fine tuning arguments such as the naturalness of the electroweak (EW) scale, the large hierarchy among the Yukawa couplings also seem to suggest that an ultraviolet completion of this theory is needed.</description>
+    </item>
+    
+  </channel>
+</rss>

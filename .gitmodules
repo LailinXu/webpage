@@ -1,9 +1,9 @@
 [submodule "themes/starter-academic"]
 	path = themes/starter-academic
-	url = https://github.com/LailinXu/starter-academic.git
+	url = git@github.com:LailinXu/starter-academic.git
 [submodule "themes/researcher"]
 	path = themes/researcher
-	url = https://github.com/LailinXu/hugo-researcher.git
+	url = git@github.com:LailinXu/hugo-researcher.git
 [submodule "themes/minimal"]
 	path = themes/minimal
-	url = https://github.com/LailinXu/minimal.git
+	url = git@github.com:LailinXu/minimal.git

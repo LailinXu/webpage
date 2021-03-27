@@ -37,3 +37,4 @@ See the instruction [here](https://ustcnet.ustc.edu.cn/2015/0324/c11130a120792/p
 ## Some tips
 
 * Better use lower case for files
+* Create public pages at [gitee](https://zhuanlan.zhihu.com/p/184625753) (using the branch [gitee](https://github.com/LailinXu/webpage/tree/gitee))

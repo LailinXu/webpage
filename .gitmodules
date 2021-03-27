@@ -1,9 +1,12 @@
 [submodule "themes/starter-academic"]
 	path = themes/starter-academic
 	url = git@github.com:LailinXu/starter-academic.git
+	branch = master
 [submodule "themes/researcher"]
 	path = themes/researcher
 	url = git@github.com:LailinXu/hugo-researcher.git
+	branch = master
 [submodule "themes/minimal"]
 	path = themes/minimal
 	url = git@github.com:LailinXu/minimal.git
+	branch = master

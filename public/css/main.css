@@ -13,7 +13,7 @@ main {
     margin: auto;
     padding: 25px;
     flex: 1 0 auto;
-    max-width: 750px;
+    max-width: 85%;
 }
 
 img {
@@ -33,13 +33,14 @@ img {
 
 .intro > h2 {
     color: #757575;
-    font-size: 3vmin;
+    font-size: 6vmin;
 }
 
 /* Page content */
 
 .content {
     padding-top: 20px;
+    font-size: 3vmin;
 }
 
 /* Profile picture */
@@ -84,6 +85,7 @@ a:hover {
 
 .item {
     padding: 10px 0;
+/*    font-size: 3vmin; */
 }
 
 .item-tag {
@@ -93,7 +95,8 @@ a:hover {
 /* Navigation icons */
 
 .navbar-icon {
-    font-size: 125%;
+    /*font-size: 150%;*/
+    font-size: 3vmin;
     display: inline-block !important;
 }
 

@@ -6,95 +6,82 @@
     <description>Recent content on Lailin Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://staff.ustc.edu.cn/~xll/test/public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://staff.ustc.edu.cn/~xll/test/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/project/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Probe the nature of Higgs boson</title>
+      <link>http://staff.ustc.edu.cn/~xll/test/public/research/atlas_higgs/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/project/project1/</guid>
+      <guid>http://staff.ustc.edu.cn/~xll/test/public/research/atlas_higgs/</guid>
+      <description>Introduction On 4 July 2012, the discovery of a new particle with a mass between 125 and 127 GeV at CERN was announced. Since then, the particle has been shown to behave in many of the ways predicted for the Higgs particle by the Standard Model, a theory that has been established since the 1970s. This new particle has been found to have even parity and zero spin, two fundamental attributes of a Higgs boson.</description>
+    </item>
+    
+    <item>
+      <title>Search for new physics beyond the SM using gauge bosons</title>
+      <link>http://staff.ustc.edu.cn/~xll/test/public/research/atlas_bsm/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staff.ustc.edu.cn/~xll/test/public/research/atlas_bsm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Project 2</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/project/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>高能物理数据分析</title>
+      <link>http://staff.ustc.edu.cn/~xll/test/public/teaching/hep_exp_meth/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/project/project2/</guid>
+      <guid>http://staff.ustc.edu.cn/~xll/test/public/teaching/hep_exp_meth/</guid>
+      <description>Introduction This course is aimed for graduate students or senior undergraduates, who have taken basic courses on probablitiy and statistics. The main purpose is to bridge the gap between the knowledge from textbooks or classrooms to research work in the field of experimental particle physics. The course covers the following topics:
+ Probability and Statistics Parameter estimation and Hypothesis testing Regression and Classification Monte Carlo calculations Pattern recognition Track fitting  with emphasis on hands-on exercise.</description>
+    </item>
+    
+    <item>
+      <title>Diboson measurements to probe the nature of Electroweak Symmetry Breaking</title>
+      <link>http://staff.ustc.edu.cn/~xll/test/public/research/atlas_ewk/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staff.ustc.edu.cn/~xll/test/public/research/atlas_ewk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Project 3</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/project/project3/</link>
+      <title></title>
+      <link>http://staff.ustc.edu.cn/~xll/test/public/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/project/project3/</guid>
-      <description></description>
+      <guid>http://staff.ustc.edu.cn/~xll/test/public/contact/</guid>
+      <description>Contact   Email:
+ USTC CERN Gmail    Phone:
+ Office (0086 551) 63607672    USTC ATLAS secretary
+ Liufang Zhu (朱柳仿)  Phone: (0086 551) 63603025; (0086) 17856695007 Email       Mailing Address  96 Jinzhai Road, Department of Modern Physics
+Hefei, 230026
+China
+  金寨路96号
+中国科学技术大学近代物理系
+安徽合肥，230026
+ </description>
     </item>
     
     <item>
-      <title>Project 4</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/project/project4/</link>
+      <title>Group members</title>
+      <link>http://staff.ustc.edu.cn/~xll/test/public/group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/project/project4/</guid>
-      <description></description>
+      <guid>http://staff.ustc.edu.cn/~xll/test/public/group/</guid>
+      <description>USTC Particle Physics and Nuclear Physics USTC ATLAS Group My group Positions for postdocs, graduate students and undergraduate students are available! Contact me!
+Current members   Postdocs
+ Mario Jose Susa    Graduate students
+ Xingyu Wu    </description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
+      <title>Lailin Xu (徐来林)</title>
       <link>http://staff.ustc.edu.cn/~xll/test/public/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://staff.ustc.edu.cn/~xll/test/public/about/</guid>
-      <description>Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
+      <description>Full CV
+Professional Experience  2021-Present Assistant Professor (特任教授), University of Sci. and Tech. of China (USTC), Hefei, China 2015-2020 Postdoctoral Research Associate, Brookhaven National Lab, Upton, NY, USA (stationed at CERN working on the ATLAS experiment) 2011-2013 Visiting Research Investigator, University of Michigan, Ann Arbor, MI, USA 2010-2015 Research Assistant, USTC, Hefei, China  Education  2010-2015 Ph.D. in Physics, USTC  Thesis: Study of Electroweak and Higgs Physics with ZZ Production in ATLAS.</description>
     </item>
     
   </channel>

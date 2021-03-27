@@ -4,3 +4,8 @@ title = "Lailin Xu"
 #theme = "starter-academic"
 #theme = "researcher"
 theme = "minimal"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

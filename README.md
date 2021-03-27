@@ -19,3 +19,17 @@ See also the quick-start tutorial [here](https://gohugo.io/getting-started/quick
 ```
 hugo server -D
 ```
+
+## Deploy the website
+
+1. Generate public webpages
+```
+hugo -D
+```
+Output will be in `./public/` directory by default (`-d/--destination` flag to change it, or set `publishdir` in the config file).
+
+2. Upload files to your website server
+
+## Some tips
+
+* Better use lower case for files

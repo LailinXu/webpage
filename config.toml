@@ -1,4 +1,5 @@
-baseURL = "http://staff.ustc.edu.cn/~xll/"
+#baseURL = "http://staff.ustc.edu.cn/~xll/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Lailin Xu"
 #theme = "starter-academic"

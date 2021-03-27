@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教学 on Lailin Xu</title>
-    <link>http://staff.ustc.edu.cn/~xll/tags/%E6%95%99%E5%AD%A6/</link>
+    <link>/tags/%E6%95%99%E5%AD%A6/</link>
     <description>Recent content in 教学 on Lailin Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://staff.ustc.edu.cn/~xll/tags/%E6%95%99%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%E6%95%99%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>高能物理数据分析</title>
-      <link>http://staff.ustc.edu.cn/~xll/teaching/hep_exp_meth/</link>
+      <link>/teaching/hep_exp_meth/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/teaching/hep_exp_meth/</guid>
+      <guid>/teaching/hep_exp_meth/</guid>
       <description>Introduction This course is aimed for graduate students or senior undergraduates, who have taken basic courses on probablitiy and statistics. The main purpose is to bridge the gap between the knowledge from textbooks or classrooms to research work in the field of experimental particle physics. The course covers the following topics:
  Probability and Statistics Parameter estimation and Hypothesis testing Regression and Classification Monte Carlo calculations Pattern recognition Track fitting  with emphasis on hands-on exercise.</description>
     </item>

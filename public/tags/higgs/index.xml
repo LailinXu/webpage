@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Higgs on Lailin Xu</title>
-    <link>http://staff.ustc.edu.cn/~xll/tags/higgs/</link>
+    <link>/tags/higgs/</link>
     <description>Recent content in Higgs on Lailin Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://staff.ustc.edu.cn/~xll/tags/higgs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/higgs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Probe the nature of Higgs boson</title>
-      <link>http://staff.ustc.edu.cn/~xll/research/atlas_higgs/</link>
+      <link>/research/atlas_higgs/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/research/atlas_higgs/</guid>
+      <guid>/research/atlas_higgs/</guid>
       <description>Introduction Higgs discovery, https://www.elsevier.com/connect/higgs-boson-papers-published-and-freely-available  --  Higgs discovery   --  On 4 July 2012, the discovery of a new particle with a mass between 125 and 127 GeV at CERN was announced. Since then, the particle has been shown to behave in many of the ways predicted for the Higgs particle by the Standard Model, a theory that has been established since the 1970s. This new particle has been found to have even parity and zero spin, two fundamental attributes of a Higgs boson.</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EWK on Lailin Xu</title>
-    <link>http://staff.ustc.edu.cn/~xll/tags/ewk/</link>
+    <link>/tags/ewk/</link>
     <description>Recent content in EWK on Lailin Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://staff.ustc.edu.cn/~xll/tags/ewk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ewk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diboson measurements to probe the nature of Electroweak Symmetry Breaking</title>
-      <link>http://staff.ustc.edu.cn/~xll/research/atlas_ewk/</link>
+      <link>/research/atlas_ewk/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/research/atlas_ewk/</guid>
+      <guid>/research/atlas_ewk/</guid>
       <description>Introduction Gauge boson interactions, Triple Gaugle Couplings (TGC) and Quartic Gauge Couplings (QGC), are direct consequences of the non-Abelian nature of the SU(2)L gague structure for the Electroweak sector of the SM. Diboson production processes are of great importance in high-energy physics at the LHC. The measurement of these processes are important as they test the electroweak symmetry breaking mechanism, whereby the unified electroweak force separates into electromagnetic and weak forces in the Standard Model, and are complementary to the measurements of Higgs boson production and decay.</description>
     </item>
     

@@ -30,6 +30,10 @@ Output will be in `./public/` directory by default (`-d/--destination` flag to c
 
 2. Upload files to your website server
 
+See the instruction [here](https://ustcnet.ustc.edu.cn/2015/0324/c11130a120792/page.htm)
+
+[Filezilla](https://filezilla-project.org/) can be used to upload files to the server.
+
 ## Some tips
 
 * Better use lower case for files

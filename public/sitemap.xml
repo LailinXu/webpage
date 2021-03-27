@@ -1,106 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/research/atlas_higgs/</loc>
+    <loc>http://staff.ustc.edu.cn/~xll/research/detector/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/research/atlas_bsm/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/research/atlas_higgs/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/teaching/hep_exp_meth/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/research/atlas_bsm/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/research/atlas_ewk/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/teaching/hep_exp_meth/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/atlas/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/research/atlas_ewk/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/bsm/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/tags/atlas/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/dm/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/tags/bsm/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/ewk/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/tags/detector/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/higgs/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/tags/dm/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/tags/ewk/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/research/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/tags/higgs/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/sm/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/research/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/teaching/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/tags/sm/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/vbs/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/tags/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/teaching/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/tags/%E6%95%99%E5%AD%A6/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/tags/vbs/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/tags/%E6%95%99%E5%AD%A6/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/contact/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/categories/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/group/</loc>
+  </url><url>
+    <loc>http://staff.ustc.edu.cn/~xll/about/</loc>
   </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/group/</loc>
-  </url>
-  
-  <url>
-    <loc>http://staff.ustc.edu.cn/~xll/test/public/about/</loc>
-  </url>
-  
 </urlset>

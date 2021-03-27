@@ -18,6 +18,9 @@ main {
 
 img {
     max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Homepage */
@@ -40,7 +43,7 @@ img {
 
 .content {
     padding-top: 20px;
-    font-size: 3vmin;
+    font-size: 2.5vmin;  /* !!! to adjust font size of the main conent */
 }
 
 /* Profile picture */
@@ -96,7 +99,8 @@ a:hover {
 
 .navbar-icon {
     /*font-size: 150%;*/
-    font-size: 3vmin;
+    font-size: 2.5vmin;
+    font-weight: bold;
     display: inline-block !important;
 }
 
@@ -108,4 +112,25 @@ a:hover {
 
 footer {
     border-bottom: var(--border-width) solid var(--accent);
+}
+
+figure.floatright {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: right;
+}
+
+figure.floatleft {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: left;
+}
+
+img[src$='#center'] {
+  display: block;
+  margin: 1.0rem auto;
+  max-width: 100%;
+  height: auto;
 }

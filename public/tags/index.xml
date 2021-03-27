@@ -2,89 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lailin Xu</title>
-    <link>http://staff.ustc.edu.cn/~xll/test/public/tags/</link>
+    <link>http://staff.ustc.edu.cn/~xll/tags/</link>
     <description>Recent content in Tags on Lailin Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://staff.ustc.edu.cn/~xll/test/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://staff.ustc.edu.cn/~xll/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ATLAS</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/atlas/</link>
+      <link>http://staff.ustc.edu.cn/~xll/tags/atlas/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/atlas/</guid>
+      <guid>http://staff.ustc.edu.cn/~xll/tags/atlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BSM</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/bsm/</link>
+      <link>http://staff.ustc.edu.cn/~xll/tags/bsm/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/bsm/</guid>
+      <guid>http://staff.ustc.edu.cn/~xll/tags/bsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detector</title>
+      <link>http://staff.ustc.edu.cn/~xll/tags/detector/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://staff.ustc.edu.cn/~xll/tags/detector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DM</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/dm/</link>
+      <link>http://staff.ustc.edu.cn/~xll/tags/dm/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/dm/</guid>
+      <guid>http://staff.ustc.edu.cn/~xll/tags/dm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EWK</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/ewk/</link>
+      <link>http://staff.ustc.edu.cn/~xll/tags/ewk/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/ewk/</guid>
+      <guid>http://staff.ustc.edu.cn/~xll/tags/ewk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Higgs</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/higgs/</link>
+      <link>http://staff.ustc.edu.cn/~xll/tags/higgs/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/higgs/</guid>
+      <guid>http://staff.ustc.edu.cn/~xll/tags/higgs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SM</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/sm/</link>
+      <link>http://staff.ustc.edu.cn/~xll/tags/sm/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/sm/</guid>
+      <guid>http://staff.ustc.edu.cn/~xll/tags/sm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VBS</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/vbs/</link>
+      <link>http://staff.ustc.edu.cn/~xll/tags/vbs/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/vbs/</guid>
+      <guid>http://staff.ustc.edu.cn/~xll/tags/vbs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>专业课</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/</link>
+      <link>http://staff.ustc.edu.cn/~xll/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/</guid>
+      <guid>http://staff.ustc.edu.cn/~xll/tags/%E4%B8%93%E4%B8%9A%E8%AF%BE/</guid>
       <description></description>
     </item>
     
     <item>
       <title>教学</title>
-      <link>http://staff.ustc.edu.cn/~xll/test/public/tags/%E6%95%99%E5%AD%A6/</link>
+      <link>http://staff.ustc.edu.cn/~xll/tags/%E6%95%99%E5%AD%A6/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://staff.ustc.edu.cn/~xll/test/public/tags/%E6%95%99%E5%AD%A6/</guid>
+      <guid>http://staff.ustc.edu.cn/~xll/tags/%E6%95%99%E5%AD%A6/</guid>
       <description></description>
     </item>
     
